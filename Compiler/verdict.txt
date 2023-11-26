@@ -1,0 +1,9 @@
+COMPILETIME WARNING: assigning *int to *TrieNode
+At line : 16
+COMPILETIME WARNING: assigning char to int
+At line : 36
+COMPILETIME WARNING: assigning char to int
+At line : 60
+COMPILETIME WARNING: assigning char to int
+At line : 87
+
